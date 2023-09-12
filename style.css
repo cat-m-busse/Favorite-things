@@ -1,0 +1,33 @@
+html {
+  background-color: rgb(148, 185, 255);
+}
+body {
+  background-color: rgba(253, 247, 220, 0.85);
+  border: black 5px;
+  border-radius: 15px;
+  margin: 25px auto;
+  width: 600px;
+  padding: 25px 100px 25px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  letter-spacing: 1px;
+  margin-top: 50px;
+}
+a:hover {
+  font-weight: bold;
+}
+
+.character {
+  text-align: center;
+}
+
+img {
+  border-radius: 20px;
+}
